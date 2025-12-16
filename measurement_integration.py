@@ -1,5 +1,5 @@
 # Author: Patricio Flores-Bringas
-# Date: 2024-06-15
+# Date: 2025-12-16
 # Description: Script to convert CellProfiler output to average counts per condition
 import pandas as pd
 import numpy as np
