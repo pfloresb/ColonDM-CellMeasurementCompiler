@@ -1,4 +1,4 @@
-# Author: Patricio Flores-Bringas
+# Author: Patricio Flores-Bringas & GitHub Copilot
 # Date: 2025-12-16
 # Description: Script to convert CellProfiler output to average counts per condition
 import pandas as pd
